@@ -22,7 +22,7 @@ public class Print_AllAutosuggestion_GoogleSearch {
         for(int i =0;i<li.size();i++)
         {
         	  String s1 = li.get(i).getText();
-        	  System.out.println(s1z);
+        	  System.out.println(s1);
         }
 	}
 
